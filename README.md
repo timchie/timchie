@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  ✨ Timothy ✨ ,a full stack engineer
+- seeking to solve real world problems with Tech
+- and make necessary contributions and collaborations
+- to Tech projects to proffer innovative solutions
+- to world problems
